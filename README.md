@@ -10,9 +10,9 @@ Olá! Meu nome é **Giuliano Oliveira da Silva** e tenho **17 anos**.
   - 🏀 Basquete
   - 💻 Programação
 
-## Minha Foto
 
-![Giuliano Oliveira da Silva](https://media1.tenor.com/m/jXQIH1m3nIkAAAAC/lebron-james-king-james.gif)
+
+![](https://media1.tenor.com/m/jXQIH1m3nIkAAAAC/lebron-james-king-james.gif)
 
 ## Contato
 
