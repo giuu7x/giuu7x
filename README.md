@@ -12,7 +12,7 @@ Olá! Meu nome é **Giuliano Oliveira da Silva** e tenho **17 anos**. Sou apaixo
 
 ## Minha Foto
 
-![Giuliano Oliveira da Silva](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Fmaemaemasta%2Fhot-meme-ft-lebron-james&psig=AOvVaw1FG5QgLJNupTH84gQ-PoPb&ust=1728407916050000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCZ97Hj_IgDFQAAAAAdAAAAABAE)
+![Giuliano Oliveira da Silva](https://us-tuna-sounds-images.voicemod.net/0b396ae5-6dd2-4d52-9ace-0d5addff85b4-1714392762900.png)
 
 ## Contato
 
