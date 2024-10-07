@@ -12,7 +12,7 @@ Olá! Meu nome é **Giuliano Oliveira da Silva** e tenho **17 anos**.
 
 ## Minha Foto
 
-![Giuliano Oliveira da Silva](https://us-tuna-sounds-images.voicemod.net/0b396ae5-6dd2-4d52-9ace-0d5addff85b4-1714392762900.png)
+![Giuliano Oliveira da Silva](https://media1.tenor.com/m/jXQIH1m3nIkAAAAC/lebron-james-king-james.gif)
 
 ## Contato
 
