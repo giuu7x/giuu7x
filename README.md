@@ -1,6 +1,6 @@
 # Giuliano Oliveira da Silva
 
-Olá! Meu nome é **Giuliano Oliveira da Silva** e tenho **17 anos**. Sou apaixonado por **video games** e **Basquete**. Este é um espaço onde compartilho um pouco sobre mim e meus interesses.
+Olá! Meu nome é **Giuliano Oliveira da Silva** e tenho **17 anos**.
 
 ## Sobre Mim
 
