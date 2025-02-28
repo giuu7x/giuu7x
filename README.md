@@ -1,6 +1,6 @@
 # Giuliano Oliveira da Silva
 
-Olá! Meu nome é **Giuliano Oliveira da Silva** e tenho **17 anos**.
+Olá! Meu nome é **Giuliano Oliveira da Silva** e tenho **18 anos**.
 
 ## Sobre Mim
 
