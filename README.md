@@ -18,7 +18,7 @@ Olá! Meu nome é **Giuliano Oliveira da Silva** e tenho **17 anos**.
 
 Sinta-se à vontade para falar comigo:
 
-- **Email**: giulianosilva@aluno.senai.br
-
+- **Email**: giuliano.oliveira06@gmail.com
+**Instagram** @giulianooow
 
 Obrigado!
