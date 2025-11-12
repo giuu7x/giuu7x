@@ -1,6 +1,6 @@
 # Giuliano Oliveira da Silva
 
-Olá! Meu nome é **Giuliano Oliveira da Silva** e tenho **18 anos**.
+Olá! Meu nome é **Giuliano Oliveira da Silva** e tenho **19 anos**.
 
 ## Sobre Mim
 
@@ -12,7 +12,7 @@ Olá! Meu nome é **Giuliano Oliveira da Silva** e tenho **18 anos**.
 
 
 
-![](https://media1.tenor.com/m/jXQIH1m3nIkAAAAC/lebron-james-king-james.gif)
+
 
 ## Contato
 
