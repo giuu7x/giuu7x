@@ -4,7 +4,7 @@ Olá! Meu nome é **Giuliano Oliveira da Silva** e tenho **19 anos**.
 
 ## Sobre Mim
 
-- **Idade**: 18 anos
+- **Idade**: 19 anos
 - **Interesses**:
   - 🎮 Video Games
   - 🏀 Basquete
